@@ -3,8 +3,8 @@ Basic of Spring I studied
 
 ### 1. Hello Spring
 used https://start.spring.io/  
-     Java 11  
-     IntelliJ  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java 11  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IntelliJ  
 learned about Welcome page, index.html and what is Controller.  
 'java/hello.hellospring' -> main function  
 'java/hello.hellospring/controller' -> small code of Controller.  
